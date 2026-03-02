@@ -1,16 +1,17 @@
-### Hi 👋, I'm Chiara
-___
+#### Hi 👋, I'm Chiara
+This is where I goof around.
+
+<!--
+**cferrarino/cferrarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 #### A React dev from Argentina.
 
 - ⚙️ Working regularly with React, TypeScript and Tailwind [@Globant](https://globant.com)!
 - 🌱 Currently learning NextJs.
 - 🔭 Lately into goofing around with Blender :)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chiara-ferrarino-juarez/)!  
-
-<!--
-**cferrarino/cferrarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
