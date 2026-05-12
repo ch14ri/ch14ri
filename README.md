@@ -1,6 +1,5 @@
 #### Hi 👋, I'm Chiara
 DevSecOps obsessed with homelab-ing.
-
 This is where I goof around.
 
 <!--
